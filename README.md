@@ -13,6 +13,8 @@ $tpl->load('test');
 ?>
 ```
 
+# Template file
+
 ```html
 Hello! My name is {%name}.
 ```

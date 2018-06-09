@@ -1,0 +1,26 @@
+Hello, my name is {%name} {%surname}<br>
+<!-- begin $user:logged -->
+welcome, user<br>
+<!-- else -->
+welcome, guest<br>
+<!-- end -->
+
+<!-- loop family as person -->
+	{%person.relation}'s name is {%person.name} {%person.surname}<br>
+<!-- empty -->
+	this array is empty<br>
+<!-- endloop -->
+
+<!-- if %name == 'john' && %surname == 'doe' -->
+	it's john doe!
+<!-- elseif false -->
+	this won't work
+<!-- elseif false -->
+	this won't work
+<!-- elseif false -->
+	this won't work
+<!-- else -->
+	this won't work
+<!-- endif --><br>
+
+<!-- require external -->

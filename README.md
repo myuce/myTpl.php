@@ -1,5 +1,5 @@
 # myTpl.php
-Simple template engine written in PHP.
+Simple template engine with limited logic written in PHP.
 
 # Usage
 

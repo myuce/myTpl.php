@@ -24,3 +24,5 @@ And the result should look like this:
 ```html
 Hello! My name is John Doe.
 ```
+
+The test files can be checked for futher examples.

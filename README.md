@@ -20,5 +20,5 @@ Hello! My name is {%name}.
 And the result should look like this:
 
 ```html
-Hello! My name is {%name}.
+Hello! My name is John Doe.
 ```

@@ -1,5 +1,5 @@
 # myTpl.php
-Simple template engine with limited logic written in PHP. A version written in Javascript can be found [Here](http://github.com/myuce/myTpl.js)
+Simple template engine with limited logic written in PHP. A version written in Javascript can be found [here](http://github.com/myuce/myTpl.js).
 
 # Usage
 

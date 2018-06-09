@@ -6,7 +6,7 @@ Simple template engine with limited logic written in PHP. A version written in J
 ```php
 <?php
 require 'myTpl.php';
-using myuce\myTpl;
+use myuce\myTpl;
 $tpl = new('tplDir','cacheDir');
 $tpl->set('name','John Doe');
 $tpl->load('test');
